@@ -4,6 +4,6 @@
 
 <a href = "https://www.google.com.tw/" > Google </a>
 
-<a herf = "http://www.nicovideo.jp/" > niconico </a>
+<a href = "http://www.nicovideo.jp/" > niconico </a>
 
-<a herf = "https://twitter.com/" > Twitter </a>
+<a href = "https://twitter.com/" > Twitter </a>
